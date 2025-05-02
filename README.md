@@ -1,1 +1,2 @@
 # Energy-Consumption-week-1-task
+This project aims to analyze energy consumption patterns across various buildings over multiple years, focusing on electricity, water, and gas usage. By leveraging Power BI for visualization, the dataset provides valuable insights into consumption trends, cost estimation, and potential optimizations for resource management. The analysis can support informed decision-making for businesses, policymakers, and sustainability initiatives.
